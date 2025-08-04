@@ -53,6 +53,8 @@ Use Folium HeatMap to plot accident locations and visualize geographical hotspot
 4) The interactive heatmap highlights accident-dense regions in the US.
 
 # LinkedIn (Task link)
+(https://www.linkedin.com/feed/update/urn:li:activity:7358054436847448065/)
+
 
 
 
